@@ -1,0 +1,68 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Node.js port of legacy COBOL account system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --reporters=default"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  {
+    "name": "accounting",
+    "version": "1.0.0",
+    "description": "Node.js port of legacy COBOL account system",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest --reporters=default"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "inquirer": "^9.2.7"
+    },
+    "devDependencies": {
+      "jest": "^29.6.1"
+    }
+  }
+  "description": "Node.js port of legacy COBOL account system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --reporters=default"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Node.js port of legacy COBOL account system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --reporters=default"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  }
+}
